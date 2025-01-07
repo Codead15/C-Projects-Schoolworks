@@ -1,2 +1,2 @@
-# C-Projects-Schoolworks
-C Projects/Schoolworks
+# Airplane Seat Reservation
+Airplane Seat Reservation
